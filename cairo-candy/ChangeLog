@@ -7,7 +7,7 @@
 2006-01-27 Mirco Mueller <macslow@bangang.de>
 
 	The cairo-clock.c now uses librsvg to load all parts of the clock as SVG
-	files. Some command-line paramters can now be use to alter the initial
+	files. Some command-line parameters can now be use to alter the initial
 	behaviour of the clock. Overall performance is much better now!
 
 2006-01-22 Mirco Mueller <macslow@bangang.de>
